@@ -1,4 +1,4 @@
-package binary_search;
+package com.data_structure_problems.binary_search;
 
 public class TargetElement {
 

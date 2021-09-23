@@ -1,4 +1,4 @@
-package HashMap;
+package com.data_structure_problems.HashMap;
 
 import java.util.HashMap;
 import java.util.WeakHashMap;
