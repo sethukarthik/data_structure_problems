@@ -1,6 +1,7 @@
 package com.data_structure_problems.m_leet_code;
 
 import java.util.Arrays;
+import java.util.LinkedList;
 
 public class rotate_image {
 
@@ -24,6 +25,6 @@ public class rotate_image {
 		int[][] matrix = {{1,2,3},{4,5,6},{7,8,9}};
 		System.out.println(matrix[0][1]);
 		rotate(matrix);
-	}
+	 }
 	
 }

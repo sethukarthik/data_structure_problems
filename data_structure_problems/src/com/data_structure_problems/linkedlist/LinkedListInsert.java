@@ -62,20 +62,23 @@ public class LinkedListInsert {
 	}
 	
 	public static void main(String[] args) {
-		LinkedListInsert llInsert = new LinkedListInsert();
-		llInsert.addFirst(0);
-		llInsert.addFirst(1);
-		llInsert.addFirst(3);
-		llInsert.addFirst(4);
-		llInsert.addLast(50);
-		llInsert.addLast(60);
-		llInsert.addLast(70);
-		llInsert.addLast(80);
-		llInsert.deleteNode(0);
-		llInsert.deleteNode(1);
-		llInsert.deleteNode(3);
-		System.out.println(llInsert.search(0));
-		System.out.println(llInsert.search(50));
-		llInsert.print();
+//		LinkedListInsert llInsert = new LinkedListInsert();
+//		llInsert.addFirst(0);
+//		llInsert.addFirst(1);
+//		llInsert.addFirst(3);
+//		llInsert.addFirst(4);
+//		llInsert.addLast(50);
+//		llInsert.addLast(60);
+//		llInsert.addLast(70);
+//		llInsert.addLast(80);
+//		llInsert.deleteNode(0);
+//		llInsert.deleteNode(1);
+//		llInsert.deleteNode(3);
+//		System.out.println(llInsert.search(0));
+//		System.out.println(llInsert.search(50));
+//		llInsert.print();
+		
+		float sum = 2 + 9 + 0;
+		System.out.println(sum % 10);
 	}
 }
